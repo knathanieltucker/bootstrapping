@@ -26,7 +26,7 @@ test_requirements = [
 
 setup(
     name='bootstrapping',
-    version='0.1.0',
+    version='0.1.1',
     description="Statistical Library for Bootstrapping",
     long_description=readme + '\n\n' + history,
     author="K. Nathaniel Tucker",
